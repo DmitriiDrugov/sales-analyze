@@ -1,6 +1,8 @@
 Overview
 The dashboard provides a comprehensive view of key sales performance indicators over a selected period (January 1, 2022 – April 29, 2022). It helps stakeholders quickly understand revenue trends, profitability, and customer segmentation.
 
+![{9FC601B7-C783-46A3-994E-E2A5EDDCAC41}](https://github.com/user-attachments/assets/a1292623-deaa-4bb4-b2ee-48c10cf09220)
+
 Key Features
 Total Revenue: 1.10M
 
