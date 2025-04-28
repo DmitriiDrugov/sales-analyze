@@ -3,7 +3,7 @@ This interactive dashboard provides a comprehensive view of key sales KPIs for t
 It helps stakeholders quickly identify trends in revenue, profitability, and customer segmentation.
 
 
-
+![{9FC601B7-C783-46A3-994E-E2A5EDDCAC41}](https://github.com/user-attachments/assets/a1292623-deaa-4bb4-b2ee-48c10cf09220)
 🚀 Key Features
 💰 Total Revenue: $1.10M
 
