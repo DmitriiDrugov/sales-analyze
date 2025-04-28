@@ -3,7 +3,7 @@ The dashboard provides a comprehensive view of key sales performance indicators 
 
 ![{9FC601B7-C783-46A3-994E-E2A5EDDCAC41}](https://github.com/user-attachments/assets/a1292623-deaa-4bb4-b2ee-48c10cf09220)
 
-Key Features
+**Key Features**
 Total Revenue: 1.10M
 
 Total Profit: 253.78K
@@ -16,7 +16,7 @@ Number of Active Clients (АКБ): 173
 
 Logistics Costs: 4,405
 
-Visualizations
+**Visualizations**
 Revenue Dynamics: Monthly sales trends with quarterly comparison.
 
 Customer Segments: Sales distribution by customer types (Corporate, Consumer, Home Office, Small Business).
@@ -29,17 +29,17 @@ Loss-Making Orders: List of managers with total loss amounts and number of unpro
 
 Key Metrics Overview: Displayed in KPI cards on the left panel.
 
-Filters
+**Filters**
 Date Range Selector: Choose a custom period for analysis.
 
 Dynamic Filters: Quick access to focus on specific metrics like revenue, logistics costs, profitability, etc.
 
-Tools and Technologies
+**Tools and Technologies**
 Power BI Desktop
 
 Microsoft Excel (Data Source)
 
-Purpose
+**Purpose**
 This dashboard was created to demonstrate skills in:
 
 Data import and transformation
@@ -50,7 +50,7 @@ Business KPI monitoring
 
 Dashboard design and layout best practices
 
-How to Use
+**How to Use**
 Open the .pbix file in Power BI Desktop.
 
 Refresh the data if needed.
